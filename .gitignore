@@ -1,0 +1,5 @@
+db/dcf.db
+reports/
+__pycache__/
+*.pyc
+.DS_Store
