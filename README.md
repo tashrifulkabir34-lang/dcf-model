@@ -25,7 +25,7 @@ FMP API → SQL (SQLite) → Python DCF Engine → Excel Dashboard (per ticker)
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dcf-model.git
+git clone https://github.com/tashrifulkabir34-lang/dcf-model.git
 cd dcf-model
 pip install -r requirements.txt
 ```
